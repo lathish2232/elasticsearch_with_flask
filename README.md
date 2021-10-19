@@ -1,8 +1,9 @@
 # elasticsearch_with_flask
 
-## note:- elasticsearch index app it selfe defined and created automatically
+### note:- elasticsearch index defined inapp.py file and created automatically, you can check the indexs from elasticsearch using bellow url 
 
-### index name = search 
+http://localhost:9200/_aliases?pretty=true
+
 ### URLS:-
 
 ```
